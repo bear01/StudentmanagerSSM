@@ -18,7 +18,7 @@ import com.ischoolbar.programmer.service.UserService;
 
 /**
  * 用户（管理员）控制器
- * @author llq
+ * @author bear
  *
  */
 @RequestMapping("/user")

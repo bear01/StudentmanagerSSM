@@ -10,7 +10,7 @@ import com.ischoolbar.programmer.entity.Student;
 
 /**
  * Ñ§Éúdao
- * @author llq
+ * @author bear
  *
  */
 @Repository

@@ -3,7 +3,7 @@ package com.ischoolbar.programmer.page;
 import org.springframework.stereotype.Component;
 /**
  * ·ÖÒ³Àà·â×°
- * @author llq
+ * @author bear
  *
  */
 @Component

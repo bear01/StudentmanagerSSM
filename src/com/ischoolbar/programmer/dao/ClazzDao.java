@@ -9,7 +9,7 @@ import com.ischoolbar.programmer.entity.Clazz;
 
 /**
  * °à¼¶dao
- * @author llq
+ * @author bear
  *
  */
 @Repository

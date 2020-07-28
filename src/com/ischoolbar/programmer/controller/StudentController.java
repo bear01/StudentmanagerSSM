@@ -32,7 +32,7 @@ import com.ischoolbar.programmer.service.StudentService;
 import com.ischoolbar.programmer.util.StringUtil;
 /**
  * 学生信息管理
- * @author llq
+ * @author bear
  *
  */
 @RequestMapping("/student")

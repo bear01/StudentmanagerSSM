@@ -15,7 +15,7 @@ import com.ischoolbar.programmer.entity.User;
 
 /**
  * µÇÂ¼¹ýÂËÀ¹½ØÆ÷
- * @author llq
+ * @author bear
  *
  */
 public class LoginInterceptor  implements HandlerInterceptor{

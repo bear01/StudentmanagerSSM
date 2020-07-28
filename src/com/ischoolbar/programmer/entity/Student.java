@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 学生实体
- * @author llq
+ * @author bear
  *
  */
 @Component

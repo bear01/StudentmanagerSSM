@@ -27,7 +27,7 @@ import com.ischoolbar.programmer.util.CpachaUtil;
 
 /**
  * 系统主页控制器
- * @author llq
+ * @author bear
  *
  */
 

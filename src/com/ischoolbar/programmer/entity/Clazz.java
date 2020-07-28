@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * °ΰΌ¶ΚµΜε
- * @author llq
+ * @author bear
  *
  */
 @Component

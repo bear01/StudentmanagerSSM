@@ -9,7 +9,7 @@ import com.ischoolbar.programmer.entity.Student;
 
 /**
  * Ñ§Éúservice
- * @author llq
+ * @author bear
  *
  */
 @Service

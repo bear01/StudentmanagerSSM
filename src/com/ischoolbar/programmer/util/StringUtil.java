@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 实用工具类
- * @author llq
+ * @author bear
  *
  */
 public class StringUtil {
